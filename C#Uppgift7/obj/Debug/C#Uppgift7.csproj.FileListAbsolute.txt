@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C#\C#Uppgift7\bin\Debug\C#Uppgift7.exe.config
+C:\Users\admin\Desktop\C#\C#Uppgift7\bin\Debug\C#Uppgift7.exe
+C:\Users\admin\Desktop\C#\C#Uppgift7\bin\Debug\C#Uppgift7.pdb
+C:\Users\admin\Desktop\C#\C#Uppgift7\obj\Debug\C#Uppgift7.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\C#Uppgift7\obj\Debug\C#Uppgift7.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\C#Uppgift7\obj\Debug\C#Uppgift7.exe
+C:\Users\admin\Desktop\C#\C#Uppgift7\obj\Debug\C#Uppgift7.pdb
