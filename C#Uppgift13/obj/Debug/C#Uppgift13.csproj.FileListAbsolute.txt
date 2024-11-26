@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C#\C#Uppgift13\obj\Debug\C#Uppgift13.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\C#Uppgift13\obj\Debug\C#Uppgift13.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\C#Uppgift13\bin\Debug\C#Uppgift13.exe.config
+C:\Users\admin\Desktop\C#\C#Uppgift13\bin\Debug\C#Uppgift13.exe
+C:\Users\admin\Desktop\C#\C#Uppgift13\bin\Debug\C#Uppgift13.pdb
+C:\Users\admin\Desktop\C#\C#Uppgift13\obj\Debug\C#Uppgift13.exe
+C:\Users\admin\Desktop\C#\C#Uppgift13\obj\Debug\C#Uppgift13.pdb
