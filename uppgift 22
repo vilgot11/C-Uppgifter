@@ -1,0 +1,4 @@
+man tar bort = från 
+for (int i = 0; i <= number.Lenght; i++)
+så att de blir
+for (int i = 0; i < number.Lenght; i++)
