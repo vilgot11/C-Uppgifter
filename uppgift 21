@@ -1,0 +1,4 @@
+man byter frå till exempel else if (age > 18).
+till (age >= 18 && age <=29).
+för att man vill att den printar samma sak mellan de sifrårna .
+man gör samma vaid 30 och över 
